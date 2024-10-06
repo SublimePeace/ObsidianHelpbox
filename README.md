@@ -2,7 +2,7 @@
 
 User-friendly, no-code collection of solutions to ease the learning curve of the note taking app Obsidian.
 Specifically aimed at casual users who can't/don't want to code or use complicated community plugins, while also helpful for advanced users. 
-Currently has only one snippet, but will be expanded more in the future, so star this repo and check back for updates! Contributions/suggestions welcome.
+**Currently has only one snippet, but will be expanded more in the future, so star this repo and check back for updates!** Contributions/suggestions welcome.
 
 ## Callouts & Checkboxes Reminder
 
