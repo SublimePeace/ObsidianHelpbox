@@ -1,4 +1,4 @@
-# ObsidianHelpboxes
+# SublimePeace's ObsidianHelpboxes
 
 User-friendly, no-code collection of solutions to ease the learning curve of the note taking app Obsidian.
 Specifically aimed at casual users who can't/don't want to code or use complicated community plugins, while also helpful for advanced users. 
