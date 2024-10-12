@@ -17,4 +17,4 @@ With this sippet, you will be able to hover the ? icon in the bottom left of Obs
 2) Make a "CalloutsAndCheckboxesReminder.css" file and copy paste the code in it, then enable the snippet in Settings->Appearance->CSS snippets
 
 ##### Please Note:
-You may not be able to use the custom checkboxes displayed in the cheatsheet unless you are using a theme that utlizes them. If you do use a theme that uses custom checkboxes, they may not be enabled by default and may need to be toggled on.
+You may not be able to use the custom checkboxes displayed in the cheatsheet unless you are using a theme that utlizes them. If you do use a theme that uses custom checkboxes, they may not be enabled by default and may need to be toggled on in the Style Settings community plugin's menu.
